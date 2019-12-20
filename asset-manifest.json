@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/algo.visualizer/static/css/main.8b590846.chunk.css",
+    "main.js": "/algo.visualizer/static/js/main.5abe4161.chunk.js",
+    "main.js.map": "/algo.visualizer/static/js/main.5abe4161.chunk.js.map",
+    "runtime-main.js": "/algo.visualizer/static/js/runtime-main.1af9f8bc.js",
+    "runtime-main.js.map": "/algo.visualizer/static/js/runtime-main.1af9f8bc.js.map",
+    "static/js/2.af244d9c.chunk.js": "/algo.visualizer/static/js/2.af244d9c.chunk.js",
+    "static/js/2.af244d9c.chunk.js.map": "/algo.visualizer/static/js/2.af244d9c.chunk.js.map",
+    "index.html": "/algo.visualizer/index.html",
+    "precache-manifest.45ddaf760c9a2dfcc50f3eb37cba280d.js": "/algo.visualizer/precache-manifest.45ddaf760c9a2dfcc50f3eb37cba280d.js",
+    "service-worker.js": "/algo.visualizer/service-worker.js",
+    "static/css/main.8b590846.chunk.css.map": "/algo.visualizer/static/css/main.8b590846.chunk.css.map",
+    "static/js/2.af244d9c.chunk.js.LICENSE": "/algo.visualizer/static/js/2.af244d9c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/algo.visualizer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1af9f8bc.js",
+    "static/js/2.af244d9c.chunk.js",
+    "static/css/main.8b590846.chunk.css",
+    "static/js/main.5abe4161.chunk.js"
+  ]
+}
